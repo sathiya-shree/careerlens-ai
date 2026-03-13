@@ -1,4 +1,4 @@
-streamlit==1.35.0
+streamlit
 spacy==3.7.5
 pdfplumber
 docx2txt
@@ -7,3 +7,4 @@ pillow
 matplotlib
 numpy<2
 requests
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
