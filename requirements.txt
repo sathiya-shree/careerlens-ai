@@ -1,10 +1,9 @@
-streamlit
-spacy
+streamlit==1.35.0
+spacy==3.7.5
 pdfplumber
 docx2txt
 pytesseract
 pillow
 matplotlib
-numpy
+numpy<2
 requests
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
