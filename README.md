@@ -28,17 +28,16 @@ Hosted using **Streamlit**.
 
 ### Resume Upload
 
-*(Add screenshot later)*
 
-```
-/screenshots/upload.png
-```
+
+
+
 
 ### AI Analysis Dashboard
 
-```
-/screenshots/analysis.png
-```
+
+
+### Skilss Chart
 
 
 # ✨ Features
