@@ -103,7 +103,7 @@ Displays skill distribution using **Matplotlib** charts.
 | **pdfplumber**      | PDF parsing           |
 | **docx2txt**        | DOCX parsing          |
 | **Tesseract OCR**   | Image text extraction |
-| **Google Gemini API | AI insights           |
+| **Google Gemini API** | AI insights           |
 
 ---
 
