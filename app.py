@@ -562,6 +562,7 @@ def get_api_key():
 def call_gemini(prompt, max_tokens=900):
     k = get_api_key()
     if not k: return None, "No API key."
+
     try:
         r = requests.post(
             f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={k}",
