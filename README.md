@@ -53,9 +53,6 @@ Hosted on **Hugging Face Spaces** for seamless access and performance
 ### Resume Upload Interface
 ![Resume Upload](screenshots/dashboard-res.png)
 
-### AI-Powered Analysis Dashboard
-![Analysis Dashboard](screenshots/analysis.png)
-
 ### Interactive Skills Visualization
 ![Skills Chart](screenshots/tone.png)
 
